@@ -1,0 +1,26 @@
+{
+  "city": "mumbai",
+  "country": "India",
+  "email": "dk@gmail.com",
+  "firstName": "Durgesh",
+  "image": "d.jpg",
+  "lastName": "Gupta",
+  "mobileNumber":"9867362377",
+  "password": "Durgesh123",
+  "state": "Maharashtra",
+  "username": "Durgesh",
+  "zipcode": "700601"
+}
+
+=========================
+login
+{
+
+  "password": "dk12345",
+  "usernameOrEmail": "dk@gmail.com"
+
+}
+===================
+forgot password
+
+http://localhost:8877/api/auth/dk3@gmail.com/forgot/abcd123
